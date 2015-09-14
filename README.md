@@ -1,6 +1,6 @@
 # Meetups
 
-## [Beginning Go](https://github.com/gSchool/go/blob/master/Events/Meetups/Beginning-Go/readme.md)
+## [Beginning Go](https://github.com/DenverGophers/go/blob/master/Events/Meetups/Beginning-Go/readme.md)
 
 # Workshops
 
