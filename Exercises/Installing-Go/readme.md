@@ -140,7 +140,7 @@ Go has the ability to import remote packages via revision control systems with t
 
 [Install Bazaar](http://wiki.bazaar.canonical.com/Download)
 
-# Go Tools
+# Go Tools - [Applies to Go 1.3 and prior]
 
 `go vet` and `go doc` are now part of the go.tools sub repo:
 [golang.org/doc/go1.2#go_tools_godoc](http://golang.org/doc/go1.2#go_tools_godoc)
