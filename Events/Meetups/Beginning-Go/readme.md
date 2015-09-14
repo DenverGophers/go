@@ -12,17 +12,17 @@ This workshop walks you through several areas of Go development, starting with g
 # Exercises
 
 ## Month 1
-* [Installing Go](https://github.com/gSchool/go/tree/master/Exercises/Installing-Go/readme.md)
-* [Your First Program](http://go-talks.appspot.com/github.com/gSchool/go/Exercises/Your-First-Program/hello.slide)
+* [Installing Go](https://github.com/DenverGophers/go/tree/master/Exercises/Installing-Go/readme.md)
+* [Your First Program](http://go-talks.appspot.com/github.com/DenverGophers/go/Exercises/Your-First-Program/hello.slide)
 
 ### Video
 [Boulder Episode One](https://www.youtube.com/watch?v=cVJWRc31vbo) This video is "ok", as everyone that came had Go installed.  There is a lot of quesiton answer section, but in general, it's a pretty long video that a 10 minute screen cast could probably cover.
 
 ## Month 2
-* [Command Line Programming](http://go-talks.appspot.com/github.com/gSchool/go/Exercises/Command-Line-Programming/presentation.slide)
+* [Command Line Programming](http://go-talks.appspot.com/github.com/DenverGophers/go/Exercises/Command-Line-Programming/presentation.slide)
 
 ## Month 3
-* [Web Service API](http://go-talks.appspot.com/github.com/gSchool/go/Exercises/Web-Services-API/presentation.slide)
+* [Web Service API](http://go-talks.appspot.com/github.com/DenverGophers/go/Exercises/Web-Services-API/presentation.slide)
 
 ## Month 4
 * [MGO - MongoDB Driver]() - Under Development
@@ -41,7 +41,7 @@ This series of workshops are intended to get you familiar with the Go platform. 
 as well as links to additional resources that you will feel comfortable attending other Go meetups, as well as
 starting your own projects in Go.
 
-* [How to get help](https://github.com/gSchool/go/blob/master/Exercises/How-to-get-help/readme.md)
+* [How to get help](https://github.com/DenverGophers/go/blob/master/Exercises/How-to-get-help/readme.md)
 
 # Resources
 
